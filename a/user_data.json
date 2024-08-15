@@ -1,0 +1,79 @@
+{
+    "100": {
+        "First Name": "omar",
+        "Last Name": "salah",
+        "Age": 20,
+        "Gender": "male",
+        "Year of Birth": 2004
+    },
+    "111": {
+        "First Name": "kamal",
+        "Last Name": "ahmed",
+        "Age": 20,
+        "Gender": "male",
+        "Year of Birth": 2003
+    },
+    "123": {
+        "First Name": "ahmed",
+        "Last Name": "mohamed",
+        "Age": 19,
+        "Gender": "male",
+        "Year of Birth": 2005
+    },
+    "500": {
+        "First Name": "mohamed",
+        "Last Name": "salah",
+        "Age": 40,
+        "Gender": "male",
+        "Year of Birth": 1984
+    },
+    "300": {
+        "First Name": "Retaje",
+        "Last Name": "ahmed",
+        "Age": 19,
+        "Gender": "female",
+        "Year of Birth": 2005
+    },
+    "102": {
+        "First Name": "salma",
+        "Last Name": "elDawy",
+        "Age": 19,
+        "Gender": "female",
+        "Year of Birth": 2005
+    },
+    "121": {
+        "First Name": "hala",
+        "Last Name": "salah",
+        "Age": 18,
+        "Gender": "female",
+        "Year of Birth": 2006
+    },
+    "501": {
+        "First Name": "ahmed",
+        "Last Name": "mohamed",
+        "Age": 18,
+        "Gender": "male",
+        "Year of Birth": 2006
+    },
+    "105": {
+        "First Name": "Rowan",
+        "Last Name": "ahmed",
+        "Age": 32,
+        "Gender": "female",
+        "Year of Birth": 1990
+    },
+    "502": {
+        "First Name": "Retaje",
+        "Last Name": "Ahmed",
+        "Age": 19,
+        "Gender": "female",
+        "Year of Birth": 2005
+    },
+    "107": {
+        "First Name": "omar",
+        "Last Name": "salah",
+        "Age": 20,
+        "Gender": "male",
+        "Year of Birth": 2004
+    }
+}
