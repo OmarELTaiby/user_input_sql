@@ -2,12 +2,12 @@ import json
 import pyodbc
 import os
 
-# Constants
+
 FILE_PATH = 'user_data.json'
-SERVER = 'localhost\SQLExpress'
+SERVER = input("Enter server name")
 DATABASE = 'UserDatabase'
-USERNAME = 'omar'
-PASSWORD = 'Password123'
+USERNAME = input("Enter user name")
+PASSWORD = input("Enter password ")
 
 # Function to initialize the JSON file if it doesn't exist
 def initialize_file(file_path):
